@@ -1,0 +1,2 @@
+user float rds_volume = 1.0;
+user float rds_dropoff = 1.0;

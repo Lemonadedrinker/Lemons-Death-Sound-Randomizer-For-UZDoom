@@ -1,0 +1,12 @@
+AddOptionMenu "OptionsMenu"
+{
+	Submenu "Random Death Sounds", "SoundsOptions"
+}
+
+OptionMenu "SoundsOptions"
+{
+	Title "Random Death Sounds Options"
+	
+	Slider "Volume", "rds_volume", 0, 2, 0.1, 1
+	Slider "Dropoff", "rds_dropoff", 0, 2, 0.1, 2
+}
