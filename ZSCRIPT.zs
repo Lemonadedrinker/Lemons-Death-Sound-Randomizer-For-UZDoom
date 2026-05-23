@@ -22,7 +22,6 @@ class RandomDeathSoundPlayer : EventHandler
         "HALODED2",
         "HALODED3",
         "HOLKNGHT",
-        "JACOBDED",
         "LEGOBRIK",
         "LEGOYODA",
         "MESSENGR",
