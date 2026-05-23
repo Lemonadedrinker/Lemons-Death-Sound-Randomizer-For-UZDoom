@@ -1,11 +1,11 @@
 AddOptionMenu "OptionsMenu"
 {
-	Submenu "Random Death Sounds", "SoundsOptions"
+	Submenu "Lemon's Death Sound Randomizer", "SoundsOptions"
 }
 
 OptionMenu "SoundsOptions"
 {
-	Title "Random Death Sounds Options"
+	Title "Lemon's Death Sound Randomizer"
 	
 	Slider "Volume", "rds_volume", 0, 2, 0.1, 1
 	Slider "Dropoff", "rds_dropoff", 0, 2, 0.1, 2
