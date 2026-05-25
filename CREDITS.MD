@@ -29,9 +29,17 @@ Zikshadow, for their original Trilby's Notes Death Music addon. [Link](https://f
 * **R6SAZAMI**: Rainbow Six: Siege Azami dying noise.
 * **R6SIEGE**: Old Rainbow Six: Siege generic death sound.
 * **RAINWRLD**: Rain world death sound.
+* **RNWDINV1**: Rain world Inv death sound 1.
+* **RNWDINV2**: Rain world Inv death sound 2.
+* **RNWDINV3**: Rain world Inv death sound 3.
+* **RNWDINV4**: Rain world Inv death sound 4.
 * **RIDDHOLE**: Batman Arkham City dying to the Riddler cutscene.
 * **RIDDSURP**: Batman Arkham City dying to the Riddler cutscene (alt).
 * **ROBLXOOF**: Roblox old death sound.
+* **SILKSNG1**: Hollow Knight: Silksong Hornet death sound 1.
+* **SILKSNG2**: Hollow Knight: Silksong Hornet death sound 2.
+* **SILKSNG3**: Hollow Knight: Silksong Hornet death sound 3.
+* **SILKSNG4**: Hollow Knight: Silksong Hornet death sound 4.
 * **SSAMDED1**: Serious Sam death sound.
 * **SSAMDED2**: Serious Sam hurt sound.
 * **SUBSTORY**: Yakuza 0 substory complete sound.
