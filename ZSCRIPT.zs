@@ -84,7 +84,7 @@ class RandomDeathSoundPlayer : EventHandler
 
         PlayerInfo dead_player = players[e.PlayerNumber];
 
-        if (inflictor.GetClassName() != 'NoitaGods')
+        if (inflictor == null || inflictor.GetClassName() != 'NoitaGods')
         {
             // Randomize the death sounds
             dead_player.Mo.A_StartSound(deadmus[random_index], CHAN_AUTO, CHANF_DEFAULT, 0.5 * rds_volume.GetFloat(), 0.5 * rds_dropoff.GetFloat()); // people around them
